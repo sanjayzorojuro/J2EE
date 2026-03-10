@@ -13,7 +13,7 @@ public class A4 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the sentence:\n");
+        System.out.println("Enter the sentence:\n");  
         String[] words = sc.nextLine().split("\\s+");
         String toggle = "";
         for (String word : words) {
