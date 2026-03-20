@@ -44,7 +44,7 @@ public class B7 {
                 }
                 case 3 -> {
                     if (list.size() <= 0) {
-                        System.out.println("List is empty");
+                        System.out.println("List is empty"); 
                     } else {
                         System.out.println("List in reverse order: \n");
                         Iterator itr = list.descendingIterator();
