@@ -95,3 +95,19 @@
 //         System.out.println(sb);
 //     }
 // }
+
+
+
+// substring() lastindexof()
+// String substring(int beginIndex)
+// String substring(int beginIndex, int endIndex)
+
+// public class Main {
+//     public static void main(String[] args) {
+//         String str = "HelloWorld";
+
+//         String result = str.substring(5);
+
+//         System.out.println(result);
+//     }
+// }
