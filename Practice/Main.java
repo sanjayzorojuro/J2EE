@@ -172,3 +172,9 @@
 //         System.out.println(s1.equals(s2));
 //     }
 // }
+
+//with ignore case
+// String s1 = "apple";
+// String s2 = "APPLE";
+
+// System.out.println(s1.compareToIgnoreCase(s2));
