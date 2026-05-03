@@ -36,3 +36,33 @@
 //         System.out.println(result);
 //     }
 // }
+
+
+
+
+// getchars() and replace()
+// void getChars(int srcBegin, int srcEnd, char[] dst, int dstBegin)
+
+// public class Main {
+//     public static void main(String[] args) {
+//         String str = "HelloWorld";
+//         char[] arr = new char[5];
+
+//         str.getChars(0, 5, arr, 0);
+
+//         System.out.println(arr);
+//     }
+// }
+
+// String replace(char oldChar, char newChar)
+
+// String replace(CharSequence target, CharSequence replacement)
+
+// public class Main {
+//     public static void main(String[] args) {
+//         String str = "banana";
+//         String result = str.replace('a', 'o');
+
+//         System.out.println(result);
+//     }
+// }
