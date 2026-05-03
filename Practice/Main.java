@@ -111,3 +111,32 @@
 //         System.out.println(result);
 //     }
 // }
+// String str = "HelloWorld";
+
+// String result = str.substring(0, 5);
+
+// System.out.println(result);
+
+
+// int lastIndexOf(int ch)
+// int lastIndexOf(String str)
+// int lastIndexOf(String str, int fromIndex)
+// public class Main {
+//     public static void main(String[] args) {
+//         String str = "banana";
+
+//         int index = str.lastIndexOf('a');
+
+//         System.out.println(index);
+//     }
+// }
+// String str = "one two one";
+
+// int index = str.lastIndexOf("one");
+
+// System.out.println(index);
+// String str = "banana";
+
+// int index = str.lastIndexOf('a', 3);
+
+// System.out.println(index);
