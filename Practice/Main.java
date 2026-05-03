@@ -66,3 +66,32 @@
 //         System.out.println(result);
 //     }
 // }
+
+
+
+
+// string buffer class method a insert() b. deletecharat()
+// StringBuffer insert(int offset, String str)
+// StringBuffer insert(int offset, char c)
+
+// public class Main {
+//     public static void main(String[] args) {
+//         StringBuffer sb = new StringBuffer("HelloWorld");
+
+//         sb.insert(5, " ");
+
+//         System.out.println(sb);
+//     }
+// }
+
+// StringBuffer deleteCharAt(int index)
+
+// public class Main {
+//     public static void main(String[] args) {
+//         StringBuffer sb = new StringBuffer("Hello");
+
+//         sb.deleteCharAt(1);
+
+//         System.out.println(sb);
+//     }
+// }
